@@ -7,8 +7,9 @@ font-family:"Libre Baskerville", serif;
 margin-left: 25%;
 margin-top: 25px;
      text-align: center; }
+
     .motivation-img{
-        width: 100%;
+        width: 50%;
         border: 5px solid white;
     
     }
